@@ -17,7 +17,7 @@ Attempt to go to
 <a href="game.php">game.php</a> without logging in - it should fail with an error message.
 </p>
 <p>
-<a href="http://www.wa4e.com/code/rps.zip"
+<a href="https://github.com/Premar19/RPS_Code/tree/main"
  target="_blank">Source Code for this Application</a>
 </p>
 </div>
